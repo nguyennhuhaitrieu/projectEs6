@@ -6,14 +6,14 @@ elm.style.color	= "#0174DF";
 /* ==================== EXAMPLE 01 ==================== */
 
 
-/*
+
 let name	= "Typescript 123";
 let price	= 25;
 
 elm.innerHTML	= `<div>Course name: <b>${name}</b>, 
 						price: <b style="color: red">${price} USD</b>
 					</div>`;
-*/
+
 
 /* ==================== EXAMPLE 02 ==================== */
 
